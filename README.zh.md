@@ -113,6 +113,9 @@ feishu-direction-doc/
 │   └── donate/
 │       ├── wechat-pay.jpg
 │       └── alipay.jpg
+├── docs/
+│   └── specs/
+│       └── readme-embeds.md
 ├── examples/
 │   └── decision-one-pager.xml
 └── skill/
