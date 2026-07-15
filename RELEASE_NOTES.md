@@ -1,5 +1,12 @@
 # Release Notes
 
+## v0.1.1 — 2026-07-15
+
+### Fixed
+
+- Replaced the broken live Star History chart with a stable GitHub Stars badge.
+- Removed the dependency on Star History's rate-limited and restricted stargazer-history API.
+
 ## v0.1.0 — 2026-07-15
 
 Initial public release.

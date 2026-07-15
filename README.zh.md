@@ -141,15 +141,11 @@ feishu-direction-doc/
 |:---:|:---:|
 | <img src="demos/donate/wechat-pay.jpg" width="200"> | <img src="demos/donate/alipay.jpg" width="200"> |
 
-## Star History
+## 给项目一个 Star
 
 <p align="center">
-  <a href="https://star-history.com/#quzhi-ai/feishu-direction-doc&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=quzhi-ai/feishu-direction-doc&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=quzhi-ai/feishu-direction-doc&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=quzhi-ai/feishu-direction-doc&type=Date" width="600" />
-    </picture>
+  <a href="https://github.com/quzhi-ai/feishu-direction-doc/stargazers">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/quzhi-ai/feishu-direction-doc?style=for-the-badge&amp;logo=github&amp;label=Stars" />
   </a>
 </p>
 
