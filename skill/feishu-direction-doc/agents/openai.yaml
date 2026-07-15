@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feishu Direction Doc"
+  short_description: "Create visually clear Feishu documents"
+  default_prompt: "Use $feishu-direction-doc to turn this content into a polished Feishu document."

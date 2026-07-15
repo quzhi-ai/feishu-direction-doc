@@ -1,0 +1,87 @@
+<title>产品试点 · 决策一页纸</title>
+
+<callout emoji="bulb" background-color="light-blue" text-color="blue">
+  <p><b>核心结论：</b>建议用两周完成一个小范围试点，先验证真实使用和交付闭环，再决定是否扩大投入。</p>
+</callout>
+
+<callout emoji="pushpin" background-color="light-gray">
+  <p><b>文档用途：</b>确认试点范围、成功标准和负责人，不展开完整技术方案。</p>
+</callout>
+
+<hr/>
+
+<h1>一、为什么现在做</h1>
+
+<p>当前团队已经有明确需求，但关键使用场景和投入产出仍需通过真实运行验证。</p>
+
+<table>
+  <thead>
+    <tr>
+      <th background-color="light-gray">已知</th>
+      <th background-color="light-gray">待验证</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>目标用户和主要问题已经明确</td>
+      <td>用户是否会持续使用</td>
+    </tr>
+    <tr>
+      <td>可以在两周内完成最小版本</td>
+      <td>是否能减少现有流程中的重复工作</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr/>
+
+<h1>二、试点范围</h1>
+
+<grid>
+  <column width-ratio="0.5">
+    <callout emoji="white_check_mark" background-color="light-green" text-color="green">
+      <p><b>本期包含</b></p>
+      <ul>
+        <li>一个核心场景</li>
+        <li>一个真实使用团队</li>
+        <li>完整记录使用结果</li>
+      </ul>
+    </callout>
+  </column>
+  <column width-ratio="0.5">
+    <callout emoji="warning" background-color="light-red" text-color="red">
+      <p><b>本期不包含</b></p>
+      <ul>
+        <li>全组织推广</li>
+        <li>复杂权限体系</li>
+        <li>非核心功能定制</li>
+      </ul>
+    </callout>
+  </column>
+</grid>
+
+<hr/>
+
+<h1>三、成功标准</h1>
+
+<ol>
+  <li>目标用户完成至少一次完整使用闭环。</li>
+  <li>核心任务耗时较原流程明显下降。</li>
+  <li>试点结束后能明确回答继续、调整或停止。</li>
+</ol>
+
+<callout background-color="light-yellow">
+  <p><b>待确认：</b>试点负责人需要在开始前确认数据口径和结果记录方式。</p>
+</callout>
+
+<hr/>
+
+<h1>四、请确认</h1>
+
+<checkbox done="false">同意按两周小范围试点推进</checkbox>
+<checkbox done="false">同意以上试点范围和成功标准</checkbox>
+<checkbox done="false">确认试点负责人和开始日期</checkbox>
+
+<callout emoji="white_check_mark" background-color="light-green" text-color="green">
+  <p><b>推荐决策：</b>范围确认后立即启动，试点结束时用真实数据决定下一阶段。</p>
+</callout>
